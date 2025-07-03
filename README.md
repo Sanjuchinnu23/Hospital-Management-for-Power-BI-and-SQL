@@ -1,0 +1,1 @@
+# Hospital-Management-for-Power-BI-and-SQL
